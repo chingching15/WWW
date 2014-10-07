@@ -1,0 +1,14 @@
+/* Created on 10/06/14 By Deyan. */
+
+
+.main {
+	height: 80%;
+	width: 80%;
+	background-color: #52A3CC;
+	margin: auto;
+}
+
+div div p {
+	display: inline-block;
+	padding: 2em;
+}
